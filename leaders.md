@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Akanksha Mishra](mailto:mishratanvi96@gmail.com)
+* [Ravi Mishra](mailto:ravi55555mishra@gmail.com)
