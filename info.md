@@ -1,7 +1,9 @@
 ### OWASP Gurugram Chapter Information
-* Provide Group Information
+
+OWASP Gurgaon Chapter is a regional community under the Open Worldwide Application Security Project (OWASP), dedicated to fostering a culture of secure software development, cybersecurity awareness, and collaborative learning
 
 ### Social Links
-* [Meetup](#)
+
+To Be Added Soon...
 
 
