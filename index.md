@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Gurugram
-tags: example-tag
+tags: 
 region: Asia
 country: India
 meetup-group: OWASP-Gurugram-Chapter
