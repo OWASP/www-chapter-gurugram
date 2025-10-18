@@ -1,0 +1,24 @@
+leaders:
+  - name: Akanksha Mishra
+    email: akanksha.mishra@owasp.org
+  - name: Ravi Mishra
+    email: ravi.mishra@owasp.org
+    github: ravi55555mishra
+location:
+  country: India
+  country_code: IN
+  region: Haryana
+  city: Gurugram
+  latitude: 28.4646148
+  longitude: 77.0299194
+meetup_group: OWASP-Gurugram-Chapter
+name: OWASP Gurugram
+repositories:
+  - name: www-chapter-gurugram
+    url: https://github.com/OWASP/www-chapter-gurugram
+    description: OWASP Foundation web repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-gurugram
