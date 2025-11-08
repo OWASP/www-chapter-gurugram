@@ -4,6 +4,6 @@ OWASP Gurgaon Chapter is a regional community under the Open Worldwide Applicati
 
 ### Social Links
 
-To Be Added Soon...
+[LinkedIn](https://www.linkedin.com/company/owasp-gurugram/)
 
 
