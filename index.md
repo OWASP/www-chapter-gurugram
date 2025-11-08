@@ -42,7 +42,7 @@ Whether you're a security enthusiast, developer, student, IT professional, or re
 📌 **Collaborate with us** – Partner for joint events, workshops, or research projects.<br>
 
 📧 Contact Us: akanksha.mishra@owasp.org and ravi.mishra@owasp.org <br>
-🌐 Follow Us: Revealing Soon...
+🌐 Follow Us: [LinkedIn](https://www.linkedin.com/company/owasp-gurugram/)
 
 Let’s build a more secure digital world together! 🚀🔐
 
